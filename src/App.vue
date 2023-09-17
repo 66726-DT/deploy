@@ -3,7 +3,7 @@
 
 <template>
   <div class=".box">
-    流程测试
+    流程测试Test 流程测试Test 流程测试Test
   </div>
 </template>
 
