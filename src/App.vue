@@ -2,8 +2,8 @@
 </script>
 
 <template>
-  <div class=".box">
-    流程测试Test 流程测试Test 流程测试Test
+  <div class="box">
+    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
   </div>
 </template>
 
@@ -21,9 +21,9 @@
   filter: drop-shadow(0 0 2em #42b883aa);
 }
 .box {
-  width: 500px;
+  width: 800px;
   height: 500px;
-  background-color:aqua;
+  background-color: #074f75;
   left: 50%;
   top: 50%;
   transform: translate(-50%,-50%);
